@@ -8,6 +8,4 @@ public class BreakTime {
 
     // reading a book
 
-
-
 }
