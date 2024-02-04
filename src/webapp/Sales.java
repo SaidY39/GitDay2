@@ -6,4 +6,8 @@ public class Sales {
 
     // 40 off
 
+    // ...
+
+    // ...
+
 }
